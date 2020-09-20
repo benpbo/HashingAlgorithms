@@ -1,0 +1,9 @@
+D:\Users\Ben Prize Bar-on\source\repos\HashingAlgorithms\NonCryptoHash\bin\Debug\netcoreapp3.1\Hash.deps.json
+D:\Users\Ben Prize Bar-on\source\repos\HashingAlgorithms\NonCryptoHash\bin\Debug\netcoreapp3.1\Hash.dll
+D:\Users\Ben Prize Bar-on\source\repos\HashingAlgorithms\NonCryptoHash\bin\Debug\netcoreapp3.1\Hash.pdb
+D:\Users\Ben Prize Bar-on\source\repos\HashingAlgorithms\NonCryptoHash\obj\Debug\netcoreapp3.1\Hash.csprojAssemblyReference.cache
+D:\Users\Ben Prize Bar-on\source\repos\HashingAlgorithms\NonCryptoHash\obj\Debug\netcoreapp3.1\Hash.AssemblyInfoInputs.cache
+D:\Users\Ben Prize Bar-on\source\repos\HashingAlgorithms\NonCryptoHash\obj\Debug\netcoreapp3.1\Hash.AssemblyInfo.cs
+D:\Users\Ben Prize Bar-on\source\repos\HashingAlgorithms\NonCryptoHash\obj\Debug\netcoreapp3.1\Hash.csproj.CoreCompileInputs.cache
+D:\Users\Ben Prize Bar-on\source\repos\HashingAlgorithms\NonCryptoHash\obj\Debug\netcoreapp3.1\Hash.dll
+D:\Users\Ben Prize Bar-on\source\repos\HashingAlgorithms\NonCryptoHash\obj\Debug\netcoreapp3.1\Hash.pdb
